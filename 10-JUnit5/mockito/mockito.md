@@ -1,14 +1,14 @@
----
-
-## Mockito (Mocking Framework)
+## 🧪 Mockito (Mocking Framework)
 
 ## 📌 Mockito Nedir?
-Mockito, unit test yazarken **bağımlılıkları taklit (mock) etmek** için kullanılan bir framework’tür.
+Mockito, unit test yazarken **bağımlılıkları taklit (mock) etmek**
+için kullanılan bir framework’tür.
 
-Amaç:
-- Gerçek bağımlılıkları (database, servis, API vb.) kullanmadan
+## 🎯 Amaç
+- Gerçek bağımlılıkları (database, servis, API vb.) kullanmadan test yazmak
 - Sadece test edilen sınıfa odaklanmak
 - İzole (bağımsız) ve hızlı testler yazmak
+
 
 ---
 
