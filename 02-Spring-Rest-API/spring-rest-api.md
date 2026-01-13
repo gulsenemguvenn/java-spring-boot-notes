@@ -314,6 +314,8 @@ Spring Boot’ta REST API mimarisi genellikle şu katmanlardan oluşur:
 
 ## Paket Yapısı Örneği
 
+```text
+
 com.example.demo
  ├── controller
  │    └── UserController.java
@@ -325,6 +327,7 @@ com.example.demo
  │    └── User.java
  └── DemoApplication.java
 
+```
 
 ---
 
