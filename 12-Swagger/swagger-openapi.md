@@ -1,6 +1,6 @@
-# 🧩 Swagger (OpenAPI)
+#  Swagger (OpenAPI)
 
-## 📌 Swagger Nedir?
+##  Swagger Nedir?
 Swagger, REST API’lerin **dokümantasyonunu otomatik olarak oluşturan**
 ve API’lerin test edilmesini sağlayan bir araçtır.
 
@@ -14,7 +14,7 @@ Spring Boot projelerinde genellikle **OpenAPI Specification** üzerinden kullan�
 
 ---
 
-## 🎯 Neden Kullanılır?
+##  Neden Kullanılır?
 - API endpoint’lerini görsel olarak listelemek için
 - Request / Response yapılarını net görmek için
 - Backend–Frontend–QA ekipleri arasında ortak bir dil oluşturmak için
@@ -22,7 +22,7 @@ Spring Boot projelerinde genellikle **OpenAPI Specification** üzerinden kullan�
 
 ---
 
-## 🔄 Swagger & OpenAPI İlişkisi
+##  Swagger & OpenAPI İlişkisi
 - **OpenAPI** → API’lerin nasıl tanımlanacağını belirleyen standarttır
 - **Swagger** → OpenAPI standartlarını kullanan araçlar bütünüdür
 
@@ -30,7 +30,7 @@ Spring Boot projelerinde genellikle **OpenAPI Specification** üzerinden kullan�
 
 ## ⚙️ Spring Boot’ta Swagger Kullanımı
 
-### 📦 Gerekli Dependency
+###  Gerekli Dependency
 Spring Boot projelerinde en yaygın kullanım(Swaggerı Projeye Dahil Etme):
 
 
