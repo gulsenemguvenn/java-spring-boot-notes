@@ -70,7 +70,7 @@ Client’a döneceğimiz hata formatını standartlaştırırız.
 
 ## Custom Exception Örneği (NotFound)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ---
 
